@@ -1,1 +1,1 @@
-# bb-priority-48hour-reminder-email
+# t-priority-sign-up-48hours-remaining
